@@ -30,12 +30,13 @@ You have to submit your project in github repository.
 - Create a new repository on GitHub.
 - Push your project folder to the repository (both document softcopy and SQL file).
 - Make sure your repository is public.
-- Share your github repository link in the following google sheet
+- Share your github repository link in the following google sheet:
 
-    -[Batch 3](https://docs.google.com/spreadsheets/d/1NhPoEIePtcU5scqDhYQhn1AcoYK3q8_O7-MjVYGzs24/edit?gid=1730725819#gid=1730725819)
-    -[Batch 4](https://docs.google.com/spreadsheets/d/1m91vQ4A4TPV4S4Clw8UmJghH8Bz55m3ewXVfs4wJfXE/edit?gid=1730725819#gid=1730725819)
+    - [Batch 3](https://docs.google.com/spreadsheets/d/1NhPoEIePtcU5scqDhYQhn1AcoYK3q8_O7-MjVYGzs24/edit?gid=1730725819#gid=1730725819)
+
+    - [Batch 4](https://docs.google.com/spreadsheets/d/1m91vQ4A4TPV4S4Clw8UmJghH8Bz55m3ewXVfs4wJfXE/edit?gid=1730725819#gid=1730725819)
 
 
 
 ## 4. Deadline: 
-- Submit your project by **1st week of February 25**.
+- Submit your project by: **1st week of February 25**.
