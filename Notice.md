@@ -13,7 +13,7 @@ Here are some important updates and instructions about this course:
 - Quiz 2: Will be announced soon.
 
 ## 4. Mid Exam:
-- **15 January (Wednesday)** (4.00pm-6.30pm) at CSE Class Room (Room No: 6613) 
+- **18th January (Saturday)** (3.00pm-6.00pm)
 
 ## 5. Profile Link Submission:
 - Follow the dealine below to submit all three profiling.
