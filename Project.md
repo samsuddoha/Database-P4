@@ -20,7 +20,7 @@ You can choose a project that aligns with your interests. Here are a few sample 
 - Employee Management System: Manage employee records, salaries, and departments.
 - **EDGE Management System, Human Resource Management System, Ecommerce, IMS**
 
-- See the following project: [EDGE Management System]()
+- See the following project: [EDGE Management System](https://github.com/samsuddoha/Database-P4/tree/main/Project%20Demo)
 
 ## 3. Project Deliverables:
 You have to submit the following files for your project.
