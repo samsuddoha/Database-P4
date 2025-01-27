@@ -10,10 +10,10 @@ Here are some important updates and instructions about this course:
 
 ## 3. Quiz Exam:
 - Quiz 1: **18th Dec (Wednesday)**
-- Quiz 2: Will be announced soon.
+- Quiz 2: **31st January (Friday)**.
 
 ## 4. Mid Exam:
-- **18th January (Saturday)** (3.00pm-6.00pm)
+- **17th January (Saturday)** (3.00pm-6.00pm)
 
 ## 5. Profile Link Submission:
 - Follow the dealine below to submit all three profiling.
@@ -38,15 +38,14 @@ Submit your freelancing profile link in the following google sheet. Create a pro
 
 
 ## 7. Project Submission:
-- Tentative date of Project Verification: 
-    - Will be announced soon.
+- Tentative date of Project Submission:  **1st February 2025**
+  
 - For details about project visit here: [Project Details](https://github.com/samsuddoha/Database-P4/blob/main/Project.md) 
 - Submit your project github link here:
     - [Batch 3](https://docs.google.com/spreadsheets/d/1NhPoEIePtcU5scqDhYQhn1AcoYK3q8_O7-MjVYGzs24/edit?gid=1730725819#gid=1730725819)
     - [Batch 4](https://docs.google.com/spreadsheets/d/1m91vQ4A4TPV4S4Clw8UmJghH8Bz55m3ewXVfs4wJfXE/edit?gid=1730725819#gid=1730725819)
 
 ## 8. Final Exam:
-- Tentative Final Exam date: 
-    - will be announced soon
+- Tentative Final Exam date: **10th February 2025**
 
 Please ensure that all tasks are completed on time to avoid any delays in your final evaluation. If you need any help regarding profile creation (LinkedIn, Freelancing, Github), assignment and project submission, don't hesitate to contact us during class time.

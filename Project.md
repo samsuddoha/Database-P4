@@ -20,6 +20,8 @@ You can choose a project that aligns with your interests. Here are a few sample 
 - Employee Management System: Manage employee records, salaries, and departments.
 - **EDGE Management System, Human Resource Management System, Ecommerce, IMS**
 
+- See the following project: [EDGE Management System]()
+
 ## 3. Project Deliverables:
 You have to submit the following files for your project.
 - Project documentation that contains project idea, ERD design with all steps, Tables and Schema diagram (Screenshot from MySQL) (You have to submit both hardcopy and softcopy of it).
@@ -39,4 +41,4 @@ You have to submit your project in github repository.
 
 
 ## 4. Deadline: 
-- Submit your project by: **1st week of February 25**.
+- Submit your project by: **1st February 25**.
