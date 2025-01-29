@@ -72,6 +72,10 @@ select * from teachers where salary>(select avg(salary) from teachers);
 --find the list of leacturers who get more salary than at least any 
 --assistant professor.
 
+
+
+
+---------------------------
 --Lecture 20----
 --------------------
 --IN, BETWEEN
@@ -80,53 +84,7 @@ select * from teachers where salary>(select avg(salary) from teachers);
 --JOIN
 --VIEW
 ------------------
---Q1: Find the list of teachrs who are from outside Dhaka.
-SELECT * FROM teachers WHERE city NOT IN('Dhaka');
 
---Q1.1 Find the list of teachers who are from the same city of Ahmed.[Sub Query]
-SELECT * FROM teachers WHERE city IN(SELECT city from teachers where name='Ahmed');
-
-----Q1.2 Find the list of students who are from the same city of Ahmed sir. [Sub Query]
-
---Q2: Find the list of teachers who received salary between 50,000 and 1,00,000.
---try yourself
---Q3: Categorise number of teachers based on designation.
-
-SELECT designation, COUNT(*) from teachers GROUP BY designation;
-SELECT designation, COUNT(*)  AS Number_of_teachers from teachers GROUP BY designation;
-
- --Q: Show the list of students [return name, roll, city, department name, dept head].
- SELECT students.name, students.roll, students.city, department.name, department.hod
- FROM students INNER JOIN department ON students.dept_id=department.id;
- 
- SELECT students.name, students.roll, students.city, department.name, department.hod
- FROM students, department 
- WHERE students.dept_id=department.id;
- 
-
---Q5: Find the list of teachers who are from dhaka and work for CSE department.
-
-SELECT teachers.name, department.name from teachers, department
-where teachers.dept_id=department.id AND teachers.city='Dhaka' AND department.name='CSE';
-
---Q6: Show the numbers of teachers for each department.
---[return dept name and number of teachers]
-
---JOIN, Group by
-
-SELECT department.name, Count(teachers.id)
-FROM department,teachers
-WHERE department.id=teachers.dept_id
-GROUP BY department.name;
-
-
-
-
-
-
-
-
---Lecture 20-
 -----------------------------------
 department(id, name, hod, contact)
 students(id, name, phone, roll, email, city,dept_id )
