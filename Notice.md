@@ -46,6 +46,6 @@ Submit your freelancing profile link in the following google sheet. Create a pro
     - [Batch 4](https://docs.google.com/spreadsheets/d/1m91vQ4A4TPV4S4Clw8UmJghH8Bz55m3ewXVfs4wJfXE/edit?gid=1730725819#gid=1730725819)
 
 ## 8. Final Exam:
-- Tentative Final Exam date: **10th February 2025**
+- Tentative Final Exam date: **13th February 2025**
 
 Please ensure that all tasks are completed on time to avoid any delays in your final evaluation. If you need any help regarding profile creation (LinkedIn, Freelancing, Github), assignment and project submission, don't hesitate to contact us during class time.
